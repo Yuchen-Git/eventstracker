@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1003354957439",
+    "project_id": "eventstracker-8339f",
+    "storage_bucket": "eventstracker-8339f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003354957439:android:3eafe7493531987904c14a",
+        "android_client_info": {
+          "package_name": "com.example.eventstracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003354957439-aqnu2547g8lu1m8eko2me7cfmob2ir69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqb0o7HmRoKQKPk5EG0xuDZAhQOF82WtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003354957439-aqnu2547g8lu1m8eko2me7cfmob2ir69.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1003354957439-aeveh97o5qbioc0h6h6c5r81m1h11uh3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eventstracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
